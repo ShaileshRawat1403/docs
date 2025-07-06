@@ -1,3 +1,4 @@
+<!-- ✅ -->
 # Release Notes Template
 
 ## Overview
