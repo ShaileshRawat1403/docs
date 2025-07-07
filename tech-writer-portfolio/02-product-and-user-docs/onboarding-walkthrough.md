@@ -38,6 +38,8 @@ Once the account is active, direct users to complete their profile. Provide fiel
 ### Step 3: Guided Tour
 A guided tour helps users navigate the main dashboard. Create a short video or interactive demo that highlights key features, such as navigation menus, search functions, and user preferences. Ensure the walkthrough is concise and can be paused or replayed at any time.
 
+![Onboarding workflow diagram](../assets/onboarding-diagram.svg)
+
 ### Step 4: Task-Oriented Tutorials
 Break down product features into tasks relevant to the user’s role. For example, a project manager might learn how to create a project, assign tasks, and generate status reports. Provide short, focused tutorials that include screenshots or screen recordings. Emphasize the benefits of each feature to keep users engaged.
 
