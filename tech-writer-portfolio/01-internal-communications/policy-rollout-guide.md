@@ -52,6 +52,8 @@ Effective policy rollout requires more than a single email. By breaking down the
 - **Week 3**: Training sessions and optional Q&A webinars
 - **Week 4**: Follow-up survey and policy acknowledgment deadline
 
+![Policy rollout timeline](../assets/policy-timeline.svg)
+
 A clear timeline sets expectations and ensures every team is on the same page. Provide contact information in case employees have questions or need clarification. Encourage managers to reinforce messages in team meetings to help maintain momentum.
 
 ### Managing Feedback
