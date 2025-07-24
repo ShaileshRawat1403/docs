@@ -121,7 +121,7 @@ Before your next prompt, ask:
 ❓ Am I rushing answers where better questions belong?
 
 Sometimes, the most intelligent thing you can do is:  
-**Pause. Reflect. Reframe.**
+> **Pause. Reflect. Reframe.**
 
 ---
 
@@ -133,7 +133,7 @@ Part of the **Sans Serif Sentiments** documentation series.
 
 ```bash
 # Reminder before the next prompt
-echo "Don’t just prompt. Think."
+echo "Don’t just prompt. THINK.Think THROUGH It."
 ```
 
 ---
