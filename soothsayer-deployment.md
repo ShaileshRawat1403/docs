@@ -36,7 +36,6 @@ soothsayer-crewai/
 ├── BUILDING_SOOTHSAYER.md            # Conceptual & guided walkthrough
 └── TECH_STACK.md                     # You're here
 
-```
 
 ---
 
