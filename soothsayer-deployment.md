@@ -1,3 +1,5 @@
+```markdown
+
 ---
 title: Soothsayer Technical Stack & Deployment Guide
 description: Full architecture, setup, and DevOps workflow for the Soothsayer agentic AI system powered by CrewAI, LangChain, and Gradio.
@@ -223,5 +225,5 @@ GitHub • LinkedIn
 
 ---
 
-
+```
 
