@@ -20,6 +20,11 @@ jobs:
           cd prompt-evaluator
           pip install -r requirements.txt
       - name: Lint
-        run: echo "Lint step placeholder"
+        run: |
+          pip install flake8
+          cd prompt-evaluator
+          flake8 .
       - name: Deploy
-        run: echo "Deploy step placeholder"
+        run: |
+          cd prompt-evaluator
+          streamlit run app/main.py --server.headless=true --server.port=8501
