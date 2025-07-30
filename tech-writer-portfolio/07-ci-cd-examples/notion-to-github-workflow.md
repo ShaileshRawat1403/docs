@@ -2,7 +2,7 @@
 
 ## Overview
 
-This guide describes an automated process for transferring documentation from Notion to GitHub. It helps teams keep their content in sync and leverage GitHub's version control features. The workflow uses Notion's API to export pages, converts them to Markdown, and uploads them to a GitHub repository.
+You'll automate the transfer of documentation from Notion to GitHub. The process keeps content in sync and leverages GitHub's version control. The workflow uses Notion's API to export pages, converts them to Markdown, and uploads them to a GitHub repository.
 
 ## Audience
 

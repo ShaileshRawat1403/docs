@@ -1,7 +1,7 @@
 # Business Process Mapping
 
 ## Overview
-This guide explains how to visualize workflows to identify gaps and streamline operations.
+You'll visualize workflows to identify gaps and streamline operations.
 
 ## Why It Matters
 Process mapping reveals inefficiencies and improves communication across teams by providing a shared reference.

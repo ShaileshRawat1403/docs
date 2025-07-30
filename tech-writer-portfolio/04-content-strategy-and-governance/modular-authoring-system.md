@@ -2,7 +2,7 @@
 # Modular Authoring System
 
 ## Overview
-This guide describes how to implement a modular authoring system for enterprise documentation. By breaking content into reusable modules, organizations can improve consistency and reduce the time needed to update materials across multiple platforms.
+You'll learn how to implement a modular authoring system for enterprise documentation. Breaking content into reusable modules improves consistency and reduces update time across multiple platforms.
 
 ![Modular authoring workflow](../assets/modular-authoring-workflow.svg)
 
@@ -105,4 +105,4 @@ Explore industry blogs and conferences focused on structured content and content
 
 ### Continuing Education
 Encourage team members to attend workshops on content design and information architecture. Provide access to online courses that cover structured authoring tools and best practices. Set aside time for regular knowledge-sharing sessions where writers can discuss what’s working and where they need help. An informed team can adapt more easily to new requirements and maintain high standards in modular documentation.
-This concludes the extended guide.
+You've reached the end of the extended guide.
