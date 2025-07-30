@@ -127,7 +127,7 @@ A financial services firm used process mapping to unify customer onboarding acro
 Assign an owner to review each map at least twice a year. Significant changes in regulations, tooling, or staffing warrant immediate updates. Keep revision history so you can track how the process evolves. Encourage team members to submit suggestions whenever they see an outdated step or unclear transition.
 
 ## Last Reviewed / Last Updated
-2025-08-30 - Codex Team
+2025-08-30 - Shailesh Rawat
 
 Continual refinement of your process maps keeps teams aligned with business objectives and supports long-term improvement.
 Stay engaged with stakeholders and review process metrics regularly to ensure maps remain actionable and relevant.
