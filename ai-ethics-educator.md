@@ -1,4 +1,4 @@
-
+# Ai Ethics Educator
 ---
 title: AI Ethics Educator – Agentic System for Awareness and Reflection
 description: A modular AI-driven system to educate individuals, teams, and organizations about ethical awareness, reflection, and responsible use of AI.
@@ -8,7 +8,6 @@ last_updated: 2025-07-26
 tags: [AI Ethics, Responsible AI, Agentic AI, Reflection, Awareness, ContentOps, FnF Framework]
 ---
 
-# 🧠 AI Ethics Educator  
 **An Agentic AI System to Raise Awareness, Enable Reflection, and Promote Responsible AI Use**
 
 ---
