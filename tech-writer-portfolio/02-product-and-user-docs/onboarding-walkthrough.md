@@ -1,4 +1,3 @@
-<!-- ✅ -->
 # Onboarding Walkthrough
 
 ## Overview

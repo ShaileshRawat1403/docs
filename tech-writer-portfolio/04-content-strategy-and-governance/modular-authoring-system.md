@@ -1,4 +1,3 @@
-<!-- ✅ -->
 # Modular Authoring System
 
 ## Overview

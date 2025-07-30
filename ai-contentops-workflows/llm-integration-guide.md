@@ -1,4 +1,4 @@
-# LLM Integration Guide
+# Llm Integration Guide
 
 ## Overview
 Steps for incorporating large language models into existing content workflows with minimal disruption.

@@ -1,14 +1,5 @@
----
-title: Accessing Intelligence
-description: A Manifesto for Meaningful AI Use
-icon: book-open-reader
-tags: [thinking-gap, ai-ethics, prompt-philosophy, context-design]
-last_updated: 2025-07-23
-maintainer: Shailesh Rawat (PoeticMayhem)
-status: Stable
----
-
-# Accessing Intelligence  
+# Readme
+## Accessing Intelligence  
 *A manifesto for meaningful AI use*
 
 > You don’t **use** intelligence.  

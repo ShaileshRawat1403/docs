@@ -1,4 +1,3 @@
-<!-- ✅ -->
 # Policy Rollout Guide
 
 ## Overview
