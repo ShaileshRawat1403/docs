@@ -1,5 +1,6 @@
-<!-- ✅ -->
 # Policy Rollout Guide
+<!-- ✅ -->
+## Policy Rollout Guide
 
 ## Overview
 You'll follow a comprehensive approach for launching new policies within a large organization. The guide emphasizes clear language, consistent messaging, and timely communication across all departments.

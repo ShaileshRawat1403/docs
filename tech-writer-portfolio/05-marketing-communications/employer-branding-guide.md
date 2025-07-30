@@ -1,5 +1,6 @@
-<!-- ✅ -->
 # Employer Branding Guide
+<!-- ✅ -->
+## Employer Branding Guide
 
 ## Overview
 A strong employer brand attracts top talent and supports a positive company reputation. You'll learn how to create consistent messaging and visuals across all recruitment channels.

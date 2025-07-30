@@ -1,4 +1,4 @@
-# IBM Style Version
+# Ibm Style Version
 
 This version reflects the IBM Style Guide with a structured, formal tone.
 

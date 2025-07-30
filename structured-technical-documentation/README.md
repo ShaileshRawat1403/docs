@@ -1,4 +1,4 @@
-# Structured Technical Documentation
+# Readme
 
 ## Overview
 This directory includes concise guides for creating and managing technical documentation at scale.

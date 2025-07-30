@@ -1,4 +1,4 @@
-# Agents and Automation
+# Agents And Automation
 
 ## Overview
 A quick guide to using AI agents for repetitive tasks in content operations.

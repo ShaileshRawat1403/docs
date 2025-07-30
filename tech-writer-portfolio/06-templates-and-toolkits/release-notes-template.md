@@ -1,5 +1,6 @@
-<!-- ✅ -->
 # Release Notes Template
+<!-- ✅ -->
+## Release Notes Template
 
 ## Overview
 This template provides a structured approach to drafting release notes for enterprise products. Consistent release notes help users understand new features, bug fixes, and known issues.

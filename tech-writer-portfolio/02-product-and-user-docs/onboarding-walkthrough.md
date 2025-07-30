@@ -1,5 +1,6 @@
-<!-- ✅ -->
 # Onboarding Walkthrough
+<!-- ✅ -->
+## Onboarding Walkthrough
 
 ## Overview
 This comprehensive onboarding walkthrough equips new users with the knowledge they need to begin using your enterprise software efficiently. The guide provides a step-by-step approach to account setup, feature discovery, and best practices for adoption.

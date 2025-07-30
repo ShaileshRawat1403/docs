@@ -1,4 +1,4 @@
-# API Documentation Example
+# Api Documentation Example
 
 ## Overview
 A brief sample of how to organize endpoint descriptions, parameters, and response formats.
