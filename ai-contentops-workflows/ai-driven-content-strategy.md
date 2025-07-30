@@ -1,4 +1,4 @@
-# AI-Driven Content Strategy
+# Ai Driven Content Strategy
 
 ## Overview
 A brief approach for incorporating AI into content planning, creation, and measurement.

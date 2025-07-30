@@ -1,4 +1,4 @@
-# Architecture Overview
+# Architecture
 
 The Prompt Thinking Loop Evaluator is organized into a small set of modules to
 keep logic isolated from the user interface. The high‑level flow follows the

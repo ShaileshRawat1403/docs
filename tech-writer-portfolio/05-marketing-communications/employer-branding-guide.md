@@ -1,4 +1,3 @@
-<!-- ✅ -->
 # Employer Branding Guide
 
 ## Overview

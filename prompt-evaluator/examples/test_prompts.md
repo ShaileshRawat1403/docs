@@ -1,4 +1,4 @@
-# Example Problematic Prompts
+# Test Prompts
 
 The following prompts intentionally violate different stages of the Prompt Thinking Loop.
 Each example includes the expected stage that fails and a short explanation.

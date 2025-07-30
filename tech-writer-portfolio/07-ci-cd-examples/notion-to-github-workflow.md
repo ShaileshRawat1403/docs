@@ -1,4 +1,4 @@
-# Notion to GitHub Workflow
+# Notion To Github Workflow
 
 ## Overview
 

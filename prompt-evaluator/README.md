@@ -1,4 +1,5 @@
-# Prompt Thinking Loop Evaluator
+# Readme
+## Prompt Thinking Loop Evaluator
 
 This tool helps authors craft better prompts by analyzing them through four
 stages: **Ideate → Investigate → Iterate → Create**. It is built with a small

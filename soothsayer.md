@@ -1,14 +1,4 @@
----
-title: Building Soothsayer
-description: A comprehensive, thinking-first guide to building your own CrewAI-powered local AI agent for meaningful content and communication.
-status: Stable
-version: v1.0
-maintainer: Shailesh Rawat (PoeticMayhem)
-last_updated: 2025-07-27
-tags: [agentic-ai, crewai, markdown-parser, gradio, ollama, langchain, internal-comms, change-translation]
----
-
-# 🧠 Building Soothsayer  
+# Soothsayer
 *A thinking assistant isn’t built in a day. It’s built in loops.*
 
 ---

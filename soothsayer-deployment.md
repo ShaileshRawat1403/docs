@@ -1,14 +1,4 @@
----
-title: Soothsayer Technical Stack & Deployment Guide
-description: Full architecture, setup, and DevOps workflow for the Soothsayer agentic AI system powered by CrewAI, LangChain, and Gradio.
-status: Stable
-version: v1.0
-maintainer: Shailesh Rawat (PoeticMayhem)
-last_updated: 2025-07-27
-tags: [crew-ai, langchain, ollama, gradio, devops, markdown-parsing, local-agent, docker, github-actions]
----
-
-# 🧱 Soothsayer Tech Stack & Deployment Guide
+# Soothsayer Deployment
 
 A system-level overview for developers, DevOps engineers, and technical content builders working with the Soothsayer agentic AI system. This document includes architecture, setup, local and containerized deployment, CI/CD guidance, and extension patterns.
 
