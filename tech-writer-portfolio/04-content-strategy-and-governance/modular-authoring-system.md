@@ -1,5 +1,6 @@
-<!-- ✅ -->
 # Modular Authoring System
+<!-- ✅ -->
+## Modular Authoring System
 
 ## Overview
 This guide describes how to implement a modular authoring system for enterprise documentation. By breaking content into reusable modules, organizations can improve consistency and reduce the time needed to update materials across multiple platforms.

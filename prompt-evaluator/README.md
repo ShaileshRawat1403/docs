@@ -1,4 +1,4 @@
-# Prompt Thinking Loop Evaluator
+# Readme
 
 ## Deviation Notice
 This README intentionally uses a descriptive heading and does not match the filename as required in `AGENTS.md`.

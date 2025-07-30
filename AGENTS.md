@@ -1,4 +1,5 @@
-# AGENTS.md — Sans Serif Sentiments ContentOps Rules
+# Agents
+Sans Serif Sentiments ContentOps Rules
 
 ## General Instructions
 

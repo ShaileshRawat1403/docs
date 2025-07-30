@@ -1,4 +1,4 @@
-# Project Intake Form Template
+# Project Intake Form
 
 ## Overview
 A project intake form is a standardized document used to collect essential information about proposed projects before they officially begin. By gathering consistent details upfront—such as objectives, stakeholders, timelines, and resource needs—organizations can evaluate project feasibility, prioritize initiatives, and allocate resources effectively. A well-designed intake form also clarifies expectations for project sponsors and teams, reducing confusion and miscommunication during the planning stages.

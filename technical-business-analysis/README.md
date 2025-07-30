@@ -1,4 +1,4 @@
-# Technical Business Analysis
+# Readme
 
 ## Overview
 This directory houses short guides for analysts bridging business and technology. Each document provides step-by-step advice for common analysis tasks.

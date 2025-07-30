@@ -1,4 +1,4 @@
-# FAQ Template
+# Faq Template
 
 ## Overview
 Frequently Asked Questions (FAQs) are a powerful tool for addressing recurring customer or employee inquiries in a single, easily accessible document. They help reduce support requests, clarify procedures, and provide a quick reference for common concerns. Crafting a well-structured FAQ ensures that readers can find answers quickly, improving their overall experience with your product or service. A thoughtful template streamlines the writing process and helps maintain consistency across multiple knowledge bases or departments.

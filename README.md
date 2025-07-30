@@ -1,3 +1,4 @@
+# Readme
 ---
 title: Accessing Intelligence
 description: A Manifesto for Meaningful AI Use
@@ -8,7 +9,7 @@ maintainer: Shailesh Rawat (PoeticMayhem)
 status: Stable
 ---
 
-# Accessing Intelligence
+## Accessing Intelligence
 *A manifesto for meaningful AI use*
 
 ## Deviation Notice
