@@ -8,8 +8,11 @@ maintainer: Shailesh Rawat (PoeticMayhem)
 status: Stable
 ---
 
-# Accessing Intelligence  
+# Accessing Intelligence
 *A manifesto for meaningful AI use*
+
+## Deviation Notice
+This manifesto intentionally deviates from the standard 15-section outline and the filename-based heading rule specified in `AGENTS.md`. The unconventional structure is preserved for clarity and historical context.
 
 > You don’t **use** intelligence.  
 > You **access** it.  

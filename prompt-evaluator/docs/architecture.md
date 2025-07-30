@@ -1,34 +1,57 @@
-# Architecture Overview
+# Architecture
 
-The Prompt Thinking Loop Evaluator is organized into a small set of modules to
-keep logic isolated from the user interface. The high‑level flow follows the
-four evaluation stages:
+## Overview
+The evaluator separates the user interface from the business logic. Four evaluation stages form the core flow: Ideate, Investigate, Iterate, and Create.
 
+## Why It Matters
+A clear architecture lets you update evaluation rules without touching the UI.
+
+## Audience, Scope & Personas
+Developers extending the evaluator or embedding it in a larger tool.
+
+## Prerequisites
+- Basic Python knowledge
+- Familiarity with Streamlit
+
+## Security & Compliance
+This local application stores no user data. Review your organization’s data policies before sharing prompts.
+
+## Tasks & Step-by-Step Instructions
+1. Review the `logic` module for evaluation rules.
+2. Update or add stages as needed.
+3. Modify the Streamlit app under `app` if you need a different interface.
+
+## Access Control & Permissions
+No elevated permissions are required to modify or run the code.
+
+## Examples & Templates
+```bash
+prompt-evaluator/
+├── app/                # Streamlit UI
+├── logic/              # Evaluation logic
+├── examples/           # Sample prompts
+├── docs/               # Documentation
 ```
-Prompt -> Ideate -> Investigate -> Iterate -> Create -> Results
-```
 
-## Components
+## Known Issues & Friction Points
+The keyword matching approach is simple and may not catch nuanced prompt issues.
 
-- **`logic/evaluator.py`**
-  Contains the heuristics for each stage. The `PromptEvaluator` returns detailed
-  feedback for the input prompt in the form of `StageFeedback` data classes.
+## Tips & Best Practices
+Keep logic isolated. Add tests when expanding evaluation rules.
 
-- **`app/main.py`**
-  Implements a Streamlit UI for entering prompts. It imports `PromptEvaluator`
-  from the logic layer and displays feedback for each stage using expanders.
+## Troubleshooting
+If the UI fails to display feedback, confirm that your modifications in `logic` return proper `StageFeedback` objects.
 
-- **`examples/`**
-  Sample prompts used for testing and demonstration of failing cases.
+## Dependencies & Escalation
+- Python standard library
+- Streamlit
+For complex architectural changes, open a discussion in the repository.
 
-- **`docs/`**
-  This documentation folder describes the architecture and the rules that each
-  stage checks.
+## Success Metrics & Outcomes
+Architecture updates should not break existing stages and should maintain UI responsiveness.
 
-## Reasoning Behind the Design
+## Resources & References
+See the main [README](../README.md) for usage details.
 
-The tool follows the typical pattern of separating presentation (Streamlit) from
-business logic. This makes it easier to update rules without changing the UI.
-The evaluator uses simple keyword matching so that it can run without external
-dependencies or network calls. Each stage can be expanded in the future with
-more sophisticated natural language processing.
+## Last Reviewed / Last Updated
+2025-07-30
