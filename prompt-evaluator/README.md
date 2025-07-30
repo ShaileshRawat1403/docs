@@ -1,16 +1,16 @@
 # Prompt Thinking Loop Evaluator
 
 ## Deviation Notice
-This README intentionally uses a descriptive heading and does not match the filename as required in `AGENTS.md`.
+You'll notice that this README uses a descriptive heading and doesn't match the filename as required in `AGENTS.md`.
 
 ## Overview
 The Prompt Thinking Loop Evaluator analyzes prompts through four stages to help you refine your ideas. The Streamlit app provides immediate feedback.
 
 ## Why It Matters
-Clear prompts create better results. This tool shows where your prompt lacks context or iterative steps.
+Clear prompts create better results. The tool shows you where your prompt lacks context or iterative steps.
 
 ## Audience, Scope & Personas
-This tool is for technical writers and prompt engineers who need quick feedback when drafting prompts.
+Use this tool if you're a technical writer or prompt engineer who needs quick feedback when drafting prompts.
 
 ## Prerequisites
 - Python 3.10 or later

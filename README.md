@@ -12,7 +12,7 @@ status: Stable
 *A manifesto for meaningful AI use*
 
 ## Deviation Notice
-This manifesto intentionally deviates from the standard 15-section outline and the filename-based heading rule specified in `AGENTS.md`. The unconventional structure is preserved for clarity and historical context.
+You’ll notice an intentional deviation from the standard 15-section outline and the filename-based heading rule in `AGENTS.md`. The unconventional structure is preserved for clarity and historical context.
 
 > You don’t **use** intelligence.  
 > You **access** it.  
@@ -104,7 +104,7 @@ Not as computation, but as **comprehension**, **context**, and **choice**.
 
 ## TL;DR
 
-This document is not a how-to.  
+You won't find a how-to here.
 It’s a **why-bother** — a **thinking prompt** before the prompt.
 
 **Accessing intelligence** is a shift:  

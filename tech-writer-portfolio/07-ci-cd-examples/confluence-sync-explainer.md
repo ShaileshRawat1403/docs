@@ -2,11 +2,11 @@
 
 ## Overview
 
-This document outlines a workflow for synchronizing Confluence pages with GitHub repositories. The process ensures that documentation maintained in Confluence remains consistent with documentation in GitHub. It covers setup, best practices, and troubleshooting tips for enterprise environments.
+You'll learn how to synchronize Confluence pages with GitHub repositories. The workflow keeps Confluence content consistent with GitHub. It covers setup, best practices, and troubleshooting tips for enterprise environments.
 
 ## Audience
 
-This guide is for technical writers, internal communications managers, and DevOps teams responsible for maintaining up-to-date documentation across collaboration platforms.
+This guide is for technical writers, internal communications managers, and DevOps teams who maintain up-to-date documentation across collaboration platforms.
 
 ## Objective
 

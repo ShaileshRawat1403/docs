@@ -2,7 +2,7 @@
 # Jira Cloud Migration Brief
 
 ## Overview
-This brief explains the communications approach for migrating from a self-hosted Jira instance to Jira Cloud. By following these guidelines, teams can move to the cloud with minimal disruption while keeping stakeholders informed.
+You'll learn the communications approach for migrating from a self-hosted Jira instance to Jira Cloud. By following these guidelines, teams can move to the cloud with minimal disruption while keeping stakeholders informed.
 
 ## Audience
 - Change Communications Managers

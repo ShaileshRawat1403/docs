@@ -10,7 +10,7 @@ tags: [crew-ai, langchain, ollama, gradio, devops, markdown-parsing, local-agent
 
 # 🧱 Soothsayer Tech Stack & Deployment Guide
 
-A system-level overview for developers, DevOps engineers, and technical content builders working with the Soothsayer agentic AI system. This document includes architecture, setup, local and containerized deployment, CI/CD guidance, and extension patterns.
+This guide gives you a system-level overview for developers, DevOps engineers, and technical content builders working with the Soothsayer agentic AI system. You'll find architecture, setup, local and containerized deployment, CI/CD guidance, and extension patterns.
 
 ---
 
