@@ -1,56 +1,61 @@
 # Prompt Thinking Loop Evaluator
 
-This tool helps authors craft better prompts by analyzing them through four
-stages: **Ideate → Investigate → Iterate → Create**. It is built with a small
-heuristic engine and a Streamlit UI for quick feedback.
+## Deviation Notice
+This README intentionally uses a descriptive heading and does not match the filename as required in `AGENTS.md`.
 
-## Features
+## Overview
+The Prompt Thinking Loop Evaluator analyzes prompts through four stages to help you refine your ideas. The Streamlit app provides immediate feedback.
 
-- Simple evaluation rules for each stage
-- Streamlit interface to type a prompt and view per‑stage feedback
-- Example prompts showing common mistakes
-- Documentation outlining architecture and rules
+## Why It Matters
+Clear prompts create better results. This tool shows where your prompt lacks context or iterative steps.
 
-## Installation
+## Audience, Scope & Personas
+This tool is for technical writers and prompt engineers who need quick feedback when drafting prompts.
 
+## Prerequisites
+- Python 3.10 or later
+- `pip` for installing dependencies
+
+## Security & Compliance
+The evaluator runs locally and does not send data externally. Follow your organization’s data handling guidelines.
+
+## Tasks & Step-by-Step Instructions
 1. Clone the repository.
-2. Navigate to the `prompt-evaluator` folder.
-3. Install dependencies:
+2. Navigate to `prompt-evaluator`.
+3. Install dependencies with `pip install -r requirements.txt`.
+4. Launch the UI with `streamlit run app/main.py`.
+5. Enter a prompt and select **Evaluate**.
 
-   ```bash
-   pip install -r requirements.txt
-   ```
+## Access Control & Permissions
+No special permissions are required. Run the tool as a regular user.
 
-## Usage
-
-Run the Streamlit application:
-
+## Examples & Templates
 ```bash
 streamlit run app/main.py
 ```
+Enter: `Write a short summary of the history of aviation.`
 
-Enter a prompt in the text area and click **Evaluate**. The app will display the
-result for each stage in expandable sections.
+## Known Issues & Friction Points
+- Dependency installation may fail on restricted networks.
+- Streamlit requires an available port to run the app.
 
-## Folder Structure
+## Tips & Best Practices
+Iterate on prompts and include context about the desired output.
 
-```
-prompt-evaluator/
-├── app/                # Streamlit UI
-├── logic/              # Evaluation logic
-├── examples/           # Sample prompts
-├── docs/               # Project documentation
-├── requirements.txt    # Python dependencies
-└── .github/workflows/  # CI/CD workflow (optional)
-```
+## Troubleshooting
+If the app fails to load, ensure Streamlit is installed and the port is free. Rerun `streamlit run app/main.py`.
 
-## Use Cases
+## Dependencies & Escalation
+- Streamlit
+- Python standard library
+For major issues, open an issue in the repository.
 
-- Teaching prompt engineering concepts
-- Demonstrating iterative thinking when crafting prompts
-- Providing quick feedback for documentation writers
+## Success Metrics & Outcomes
+You successfully evaluate prompts when each stage in the UI shows a pass.
 
-## License
+## Resources & References
+- [Architecture](docs/architecture.md)
+- [Prompt Rules](docs/prompt-rules.md)
 
-This project is provided under the MIT license. See [LICENSE](../LICENSE) for
-details.
+## Last Reviewed / Last Updated
+2025-07-30
