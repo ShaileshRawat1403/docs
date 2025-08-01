@@ -1,4 +1,3 @@
-# Soothsayer
 ---
 title: Building Soothsayer
 description: A comprehensive, thinking-first guide to building your own CrewAI-powered local AI agent for meaningful content and communication.
