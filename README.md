@@ -1,4 +1,3 @@
-# Readme
 ---
 title: Accessing Intelligence
 description: A Manifesto for Meaningful AI Use
