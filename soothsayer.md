@@ -8,7 +8,7 @@ last_updated: 2025-07-27
 tags: [agentic-ai, crewai, markdown-parser, gradio, ollama, langchain, internal-comms, change-translation]
 ---
 
-# 🧠 Building Soothsayer  
+# Building Soothsayer  
 *A thinking assistant isn’t built in a day. It’s built in loops.*
 
 ---
