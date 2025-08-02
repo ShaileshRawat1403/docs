@@ -16,6 +16,8 @@ status: Stable
 > This is not about prompts. It’s about **perspective**.  
 > — PoeticMayhem
 
+---
+
 ## Not About Artificial Intelligence  
 The problem isn’t that AI is *artificial*.  
 The problem is that **our thinking has become automated**.
