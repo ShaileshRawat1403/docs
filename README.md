@@ -11,9 +11,6 @@ status: Stable
 ## Accessing Intelligence
 *A manifesto for meaningful AI use*
 
-## Deviation Notice
-You’ll notice an intentional deviation from the standard 15-section outline and the filename-based heading rule in `AGENTS.md`. The unconventional structure is preserved for clarity and historical context.
-
 > You don’t **use** intelligence.  
 > You **access** it.  
 > This is not about prompts. It’s about **perspective**.  
