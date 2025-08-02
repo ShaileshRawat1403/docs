@@ -1,8 +1,5 @@
 # Readme
 
-## Deviation Notice
-You'll notice that this README uses a descriptive heading and doesn't match the filename as required in `AGENTS.md`.
-
 ## Overview
 The Prompt Thinking Loop Evaluator analyzes prompts through four stages to help you refine your ideas. The Streamlit app provides immediate feedback.
 
